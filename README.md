@@ -38,7 +38,9 @@
 
 ### 🔗 如何访问Nano-banana
 
-访问链接请查看：[examples/nano-banana地址.url](examples/nano-banana地址.url)
+国外地址：https://aistudio.google.com/
+
+国内地址：https://remaker.ai/nano-banana-ai/
 
 ---
 
