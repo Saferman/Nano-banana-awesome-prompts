@@ -456,12 +456,12 @@ Occupation：artist
 
 ## 更新日志
 
-- 20250903  添加31种nano-banana玩法
+- s20250903  添加31种nano-banana玩法
 - 20250828 创建仓库
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Saferman/Nano-banana-awesome-prompts&type=Date)](https://www.star-history.com/#Saferman/Nano-banana-awesome-prompts&Date)
+![](./star-history-202594.png)
 
 
 
